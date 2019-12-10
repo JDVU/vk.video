@@ -36,7 +36,7 @@
 		"tty-colors": "^0.0.6",
 		"webpack-stream": "^2.1.0",
 		"weinre": "^2.0.0-pre-I0Z7U9OV",
-		"ws": "^0.7.2"
+		"ws": "^7.2.0"
 	},
 	"devDependencies": {
 		"gulp-image-resize": "^0.6.0"
